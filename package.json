@@ -1,0 +1,29 @@
+{
+  "name": "crypto-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "A cryptocurrency arbitrage bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmpasini/crypto-arbitrage-bot.git"
+  },
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "arbitrage",
+    "bot"
+  ],
+  "author": "Bruno Macedo Pasini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmpasini/crypto-arbitrage-bot/issues"
+  },
+  "homepage": "https://github.com/bmpasini/crypto-arbitrage-bot",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0"
+  }
+}

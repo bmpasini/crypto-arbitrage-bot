@@ -1,0 +1,29 @@
+{
+  "activeExchanges": {
+    "bittrex": true,
+    "cryptopia": true,
+    "poloniex": true
+  },
+  "activeCryptos": {
+    "BTC": true,
+    "ETH": true
+  },
+  "testMode": true,
+  "testBalance": {
+    "bittrex": {
+      "BTC": 1,
+      "ETH": 5,
+      "LTC": 5
+    },
+    "cryptopia": {
+      "BTC": 1,
+      "ETH": 5,
+      "LTC": 5
+    },
+    "poloniex": {
+      "BTC": 1,
+      "ETH": 5,
+      "LTC": 5
+    }
+  }
+}
